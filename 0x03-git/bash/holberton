@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< Updated upstream
-echo "Holberton"
-=======
 echo "Holberton School"
->>>>>>> Stashed changes
